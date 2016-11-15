@@ -10,4 +10,4 @@ PayPal
 
 Alipay
 ------
-![image](https://github.com/miracleqi/Alipayimage/blob/master/two-dimension%20code.jpg)
+[image](https://github.com/miracleqi/Alipayimage/blob/master/two-dimension%20code.jpg)
