@@ -6,7 +6,7 @@ Donation
 PayPal
 ------
 
-[通过 PayPal 来支持 OpenWAF](#https://www.paypal.me/miracleqi)
+[通过 PayPal 来支持 OpenWAF](https://www.paypal.me/miracleqi)
 
 Alipay
 ------
