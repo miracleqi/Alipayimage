@@ -13,7 +13,7 @@ Alipay
 
 <img src="https://github.com/miracleqi/Alipayimage/blob/master/Alipay%20two-dimension%20code.png">
 
-weixin
+WeChat
 ------
 
 <img src="https://github.com/miracleqi/Alipayimage/blob/master/weixin%20two-dimension%20code.png">
