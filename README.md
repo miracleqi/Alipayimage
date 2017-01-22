@@ -11,12 +11,9 @@ PayPal
 Alipay
 ------
 
-![image](https://github.com/miracleqi/Alipayimage/blob/master/Alipay%20two-dimension%20code.png)
+<img src="https://github.com/miracleqi/Alipayimage/blob/master/Alipay%20two-dimension%20code.png">
 
 weixin
 ------
 
-![image](https://github.com/miracleqi/Alipayimage/blob/master/weixin%20two-dimension%20code.png)
-
-
-
+<img src="https://github.com/miracleqi/Alipayimage/blob/master/weixin%20two-dimension%20code.png">
